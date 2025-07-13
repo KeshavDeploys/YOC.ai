@@ -1,0 +1,5 @@
+Typescript
+Shadcn ui -- Beautifully-designed, accessible components.
+Tailwind CSS
+Next.js
+Google Firebase
