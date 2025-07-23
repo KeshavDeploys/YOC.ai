@@ -57,36 +57,22 @@ OPENAI_API_KEY	OpenAI Key for GPT evaluation
 <br>
 <br>
 
-📁 Project Structure
-/ (root)
-├── app/               # App Router (Next.js)
-├── components/        # Reusable UI components
-├── lib/               # API clients, helpers
-├── types/             # TypeScript interfaces
-├── public/            # Static assets
-├── .env.local         # Your local environment keys
-├── README.md          # You are here!
+
 📋 Feedback Generation Logic
-After all interview questions are answered, YOC.ai evaluates responses based on:
+After all interview questions are answered, YOC.ai evaluates responses based on:<br>
+Technical Accuracy<br>
+Communication Clarity<br>
+Structural Depth<br>
+Missed Edge Cases / Assumptions<br>
+Then it generates detailed per-question feedback and a final score out of 10.<br>
 
-Technical Accuracy
-
-Communication Clarity
-
-Structural Depth
-
-Missed Edge Cases / Assumptions
-
-Then it generates detailed per-question feedback and a final score out of 10.
 
 📦 Deployment
-YOC.ai is deployed on Vercel. To deploy your own:
-
-Push your repo to GitHub
-
-Connect GitHub to Vercel
-
-Add your environment variables in Vercel Dashboard
+YOC.ai is deployed on Vercel. To deploy your own:<br>
+<br>
+Push your repo to GitHub<br>
+Connect GitHub to Vercel<br>
+Add your environment variables in Vercel Dashboard<br>
 
 Deploy 🚀
 
