@@ -19,7 +19,7 @@ Edge Case Handling<br>
 🌐 Multilingual support (EN/HI)<br>
 🔒 API key security with environment variable management<br>
 
-📦 Tech Stack <br>
+📦 Tech Stack :- <br>
 Next.js (App Router) <br>
 TypeScript<br>
 Vapi.ai for voice interactions <br>
@@ -30,11 +30,10 @@ Zod & React-Hook-Form for validation <br>
 Vercel (Deployment) <br>
  
 
-🛠️ Getting Started<br>
-
+🛠️ Getting Started<br><br>
 Clone the repository:
 --git clone https://github.com/KeshavDeploys/YOC.ai
---cd YOC.ai
+--cd YOC.ai<br>
 
 Install dependencies: <br>
 --npm install
