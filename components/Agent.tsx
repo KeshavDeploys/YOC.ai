@@ -3,7 +3,7 @@
 import Image from "next/image";
 import React, { useEffect, useState } from "react";
 import { cn } from "@/lib/utils";
-import { AgentProps } from "@/types";
+
 import { useRouter } from "next/navigation";
 import { vapi } from "@/lib/vapi.sdk";
 
@@ -69,7 +69,7 @@ function Agent({ userName, userId, type }: AgentProps) {
     if (callStatus === CallStatus.FINISHED) {
       router.push("/");
     }
-  }, [messages, callStatus, type, userId]);
+  }, [messages, callStatus, type, userId, router]);
 
   const handleCall = async () => {
     setCallStatus(CallStatus.CONNECTING);
