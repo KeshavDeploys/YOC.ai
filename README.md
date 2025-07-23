@@ -74,13 +74,8 @@ Push your repo to GitHub<br>
 Connect GitHub to Vercel<br>
 Add your environment variables in Vercel Dashboard<br>
 
-Deploy 🚀
+🤝 Contributing<br>
+Pull requests are welcome. For major changes, please open an issue first to discuss your proposal.<br>
 
-📸 Demo
-!Click to Watch Demo
-
-🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss your proposal.
-
-🛡️ License
-MIT © 2025 KeshavDeploys
+🛡️ License<br>
+MIT © 2025 KeshavDeploys<br>
