@@ -28,46 +28,36 @@ Zod & React-Hook-Form for validation <br>
 Vercel (Deployment) <br>
  
 
-🛠️ Getting Started
+🛠️ Getting Started<br>
+
 Clone the repository:
+--git clone https://github.com/KeshavDeploys/YOC.ai
+--cd YOC.ai
 
-bash
-Copy
-Edit
-git clone https://github.com/KeshavDeploys/YOC.ai
-cd YOC.ai
-Install dependencies:
+Install dependencies: <br>
+--npm install
+--Create a .env.local file in the root and add your environment variables:
+<br>
+<br>
 
-bash
-Copy
-Edit
-npm install
-Create a .env.local file in the root and add your environment variables:
-
-.env.local
-
+.env.local:
 NEXT_PUBLIC_VAPI_API_KEY=your-vapi-api-key
 OPENAI_API_KEY=your-openai-api-key
-...
-
+<br>
+<br>
 Start the development server:
-
-bash
-Copy
-Edit
 npm run dev
 🔐 Environment Variables
 Make sure to define all necessary keys in .env.local and never expose them in code.
-
+<br>
 Key	Description
 NEXT_PUBLIC_VAPI_API_KEY	Vapi API Key for voice interaction
 OPENAI_API_KEY	OpenAI Key for GPT evaluation
 ...	Add any third-party service keys here
+<br>
+<br>
 
 📁 Project Structure
-bash
-Copy
-Edit
 / (root)
 ├── app/               # App Router (Next.js)
 ├── components/        # Reusable UI components
