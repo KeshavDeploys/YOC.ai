@@ -1,5 +1,5 @@
 🧠 YOC.ai – AI-Powered Interview Assistant <br>
-YOC.ai is an intelligent AI interview coach that simulates technical interviews, evaluates responses, and provides detailed feedback based on key criteria such as accuracy, communication, <br>and problem-solving depth. Designed to streamline interview preparation and candidate assessment for developers and recruiters.<br>
+YOC.ai is an intelligent AI interview coach that simulates technical interviews, evaluates responses, and provides detailed feedback based on key criteria such as accuracy, communication, and problem-solving depth. Designed to streamline interview preparation and candidate assessment for developers and recruiters.<br>
 
 🚀 Features<br>
 🗣️ Natural language Q&A with structured technical prompts <br>
