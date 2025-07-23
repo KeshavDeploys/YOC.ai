@@ -1,43 +1,30 @@
-# 🚀 KeshavDeploys Portfolio
+# 🚀 YOC.ai - Your Own Interview Coach
 YOC.ai is an intelligent AI interview coach that simulates technical interviews, evaluates responses, and provides detailed feedback based on key criteria such as accuracy, communication, and problem-solving depth. Designed to streamline interview preparation and candidate assessment for developers and recruiters.<br>
 
 🚀 Features<br>
 🗣️ Natural language Q&A with structured technical prompts <br>
-
 📊 Automatic scoring and feedback (0–10 scale) <br>
-
 📚 Integration with external question APIs <br>
 
 🧠 Evaluates responses on:
-
 Technical Accuracy
-
 Communication Clarity
-
 Structural Depth
-
 Edge Case Handling
 
 🌐 Multilingual support (EN/HI)
-
 🔒 API key security with environment variable management
 
-📦 Tech Stack
-Next.js (App Router)
-
-TypeScript
-
-Vapi.ai for voice interactions
-
-OpenAI GPT for evaluation and response
-
-TailwindCSS & ShadCN UI for clean design
-
-Zustand or Redux for state management
-
-Zod & React-Hook-Form for validation
-
-Vercel (Deployment)
+📦 Tech Stack <br>
+Next.js (App Router) <br>
+TypeScript<br>
+Vapi.ai for voice interactions <br>
+OpenAI GPT for evaluation and response <br>
+TailwindCSS & ShadCN UI for clean design <br>
+Zustand or Redux for state management <br>
+Zod & React-Hook-Form for validation <br>
+Vercel (Deployment) <br>
+ 
 
 🛠️ Getting Started
 Clone the repository:
