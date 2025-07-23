@@ -15,7 +15,7 @@ YOC.ai is an intelligent, AI-driven interview coaching platform designed to simu
 Technical Accuracy<br>
 Communication Clarity<br>
 Structural Depth<br>
-Edge Case Handling<br><br>
+Edge Case Handling<br>
 🌐 Multilingual support (EN/HI)<br>
 🔒 API key security with environment variable management<br>
 
